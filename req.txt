@@ -1,0 +1,3 @@
+aiogram==2.20
+aioschedule==0.5.2
+pytz==2023.3.post1
